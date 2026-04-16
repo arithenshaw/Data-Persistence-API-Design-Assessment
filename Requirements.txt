@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-httpx
-sqlalchemy
-asyncpg
-aiosqlite
-uuid7
